@@ -2,135 +2,121 @@
   "beginner": [
     {
       "id": 1,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/19_F_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/e17ef9ad-521d-4f02-9fd4-06436181f1e1",
       "name": "Jumping Jacks",
       "reps": "20 sec",
       "description": "Jumping jacks are a full-body exercise that involves jumping to a position with your legs spread wide and your hands touching overhead. It's a great way to warm up your body and get your heart rate up."
     },
     {
       "id": 2,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/28_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/d7055115-a6dd-4f5e-8573-c8c8e62253e1",
       "name": "Abdominal Crunches",
       "reps": "15 reps",
       "description": "Lie on your back with your knees bent and feet flat on the floor. Place your hands behind your head, engage your core, and lift your shoulders off the ground towards your knees. Focus on contracting your abdominal muscles."
     },
     {
       "id": 3,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/25_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/47babf0f-ceb9-460e-9b2f-694bc7c9bd0a",
       "name": "Russian Twist",
       "reps": "12 reps",
       "description": "Sit on the floor with your knees bent and feet flat. Lean back slightly while keeping your back straight. Lift your feet off the ground and balance on your tailbone. Hold a weight or your hands together, and twist your torso from side to side, engaging your oblique muscles."
     },
     {
       "id": 4,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/27_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/faf57ff5-61d8-4b44-8efd-ccd96fbc8d26",
       "name": "Mountain Climber",
       "reps": "10 reps",
       "description": "Assume a plank position with your hands placed directly under your shoulders. Alternate bringing your knees toward your chest in a running motion while keeping your core engaged and your hips down. It's an excellent exercise for cardio and core strength."
     },
     {
       "id": 5,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/29_M_WIP02.gif",
-      "name": "Heel Touch",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/3a978d87-3c4a-4f6b-9f26-c9d4d3109350",
+      "name": "Squat",
       "reps": "12 reps",
-      "description": "Lie on your back with your knees bent and feet flat on the floor. Lift your head and shoulders off the ground, reaching your hands towards your heels, engaging your obliques with each twist. This exercise targets the sides of your waist."
+      "description": "Stand with your feet shoulder-width apart. Lower your body by bending your knees and hips, as if sitting back into an imaginary chair. Keep your back straight and chest up. Push through your heels to return to a standing position. Squats target your quadriceps, hamstrings, and glutes."
     },
     {
       "id": 6,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/24_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/b974a742-aaff-46d2-b2c1-93931358babb",
       "name": "Leg Raises",
       "reps": "12 reps",
       "description": "Lie flat on your back with your legs extended. Keep your hands under your hips for support. Slowly raise your legs upward while keeping them straight, then lower them back down without touching the floor. This targets your lower abs."
     },
     {
       "id": 7,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/05_M_WIP03-Plank-push-up.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/58135702-8a26-44d9-9f15-6a9c4b8309d4",
       "name": "Plank",
       "reps": "30 sec",
       "description": "Assume a push-up position with your arms straight and your wrists aligned under your shoulders. Keep your body in a straight line from head to heels. Engage your core muscles and hold the position, focusing on maintaining proper form."
     },
     {
       "id": 8,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/06_F_WIP02.gif",
-      "name": "Incline Push-Ups",
-      "reps": "10 reps",
-      "description": "Find a stable surface at waist height. Place your hands on the surface slightly wider than shoulder-width apart. Lower your chest towards the surface by bending your elbows. Push back up to the starting position. This modified push-up helps build upper body strength."
-    },
-    {
-      "id": 9,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/06_M_WIP02.gif",
-      "name": "Push-Ups",
-      "reps": "8 reps",
-      "description": "Begin in a plank position with your hands placed directly under your shoulders. Lower your chest towards the ground by bending your elbows, keeping your body in a straight line. Push back up to the starting position. Push-ups target your chest, shoulders, and triceps."
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/71a2ef36-1d16-42c8-92e9-5e6ce0f6feeb",
+      "name": "Push ups",
+      "reps": "30 sec",
+      "description": "Assume a push-up position with your hands placed wider than shoulder-width apart. Lower your chest towards the ground by bending your elbows, then push back up. This variation targets your chest muscles and enhances upper body strength."
     }
   ],
   "intermediate": [
     {
       "id": 1,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/28_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/ff99c28b-b61b-4287-8775-c52af5dcedb4",
       "name": "Crossover Crunch",
       "reps": "15 reps",
       "description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground and twist your torso, bringing your right elbow towards your left knee, then vice versa. This exercise targets your oblique muscles and upper abs."
     },
     {
       "id": 2,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/30_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/7f911f22-76c3-47d9-bca9-1fa14ce7ea72",
       "name": "Side Bridges Left",
       "reps": "30 sec",
       "description": "Lie on your left side, supporting your body with your left elbow and forearm. Lift your hips off the ground, forming a straight line from head to heels. Engage your core to maintain stability. This exercise strengthens your obliques and improves lateral stability."
     },
     {
       "id": 3,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/30_F_WIP02.gif",
-      "name": "Side Bridges Right",
-      "reps": "30 sec",
-      "description": "Lie on your right side, supporting your body with your right elbow and forearm. Lift your hips off the ground, forming a straight line from head to heels. Engage your core to maintain stability. This exercise strengthens your obliques and improves lateral stability."
-    },
-    {
-      "id": 4,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/27_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/6c1820b2-2100-4277-853d-cd1c76e5e6e5",
       "name": "Bicycle Crunches",
       "reps": "20 reps",
       "description": "Lie on your back with your hands behind your head. Lift your shoulders off the ground and bring your left elbow towards your right knee while extending your left leg. Alternate sides in a pedaling motion. This exercise targets your obliques and engages your entire core."
     },
     {
-      "id": 5,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/26_M_WIP02.gif",
+      "id": 4,
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/30b72764-3d9b-46c6-b2e4-f3124f448599",
       "name": "V-Up",
       "reps": "12 reps",
       "description": "Lie flat on your back with your arms extended overhead and your legs straight. Simultaneously lift your upper body and legs off the ground, forming a V shape. Lower back down with control. This exercise challenges your upper and lower abs."
     },
     {
-      "id": 6,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/06_M_WIP02.gif",
+      "id": 5,
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/71a2ef36-1d16-42c8-92e9-5e6ce0f6feeb",
       "name": "Wide Arm Push-Ups",
       "reps": "8 reps",
       "description": "Assume a push-up position with your hands placed wider than shoulder-width apart. Lower your chest towards the ground by bending your elbows, then push back up. This variation targets your chest muscles and enhances upper body strength."
     },
     {
-      "id": 7,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/01_M_WIP02.gif",
+      "id": 6,
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/00853ec9-1c62-436e-ac6d-72898efa107e",
       "name": "Staggered Push-Ups",
       "reps": "8 reps",
       "description": "Assume a push-up position with one hand placed slightly forward and the other slightly back. Lower your chest towards the ground by bending your elbows, then push back up. This exercise challenges your chest and shoulders asymmetrically."
     },
     {
-      "id": 8,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/13_M_WIP02.gif",
+      "id": 7,
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/3a978d87-3c4a-4f6b-9f26-c9d4d3109350",
       "name": "Squats",
       "reps": "15 reps",
       "description": "Stand with your feet shoulder-width apart. Lower your body by bending your knees and hips, as if sitting back into an imaginary chair. Keep your back straight and chest up. Push through your heels to return to a standing position. Squats target your quadriceps, hamstrings, and glutes."
     },
     {
-      "id": 9,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/08_M_WIP02.gif",
+      "id": 8,
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/f44dc123-fe48-4435-b79a-00516979d172",
       "name": "Lunges",
       "reps": "12 reps each leg",
       "description": "Step forward with one leg and lower your body until both knees are bent at 90-degree angles. Push through the heel of your front foot to return to the starting position. Alternate legs with each repetition. Lunges enhance lower body strength and stability."
     },
     {
-      "id": 10,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/05_M_WIP03-Plank-push-up.gif",
+      "id": 9,
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/29533acd-7967-4ec5-bc22-9d60eb3894a5",
       "name": "Hover Push-Ups",
       "reps": "10 reps",
       "description": "Start in a plank position with your elbows on the ground. Push up onto your hands one at a time, like a push-up. Lower back down onto your elbows while maintaining core stability throughout. This exercise challenges your chest and shoulders in a different way."
@@ -139,49 +125,49 @@
   "advanced": [
     {
       "id": 1,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/27_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/d227d495-e8dc-4111-be72-e66b2b9797dd",
       "name": "Crossover Crunch",
       "reps": "40 reps",
       "description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground and twist your torso, bringing your right elbow towards your left knee, then vice versa. This advanced variation targets your obliques and upper abs."
     },
     {
       "id": 2,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/05_M_WIP03-Plank-push-up.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/607880c3-0ede-4e9d-ae9d-7673f895e7d2",
       "name": "Plank",
       "reps": "2 mins",
       "description": "Assume a push-up position with your arms straight and wrists aligned under your shoulders. Keep your body in a straight line from head to heels, engaging your core. Hold the position for an extended time to challenge your core strength."
     },
     {
       "id": 3,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/04_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/372e769e-908f-470f-936a-40421321a6c4",
       "name": "Burpees",
       "reps": "30 reps",
       "description": "Start from a standing position, then squat down and kick your legs back to a plank position. Perform a push-up, then jump your feet back to the squat position. Explosively jump up with arms overhead. This dynamic exercise combines strength and cardio."
     },
     {
       "id": 4,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/14_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/6e6f6e75-e804-4ca5-abe6-cf3166392de5",
       "name": "Single Leg Deadlift",
       "reps": "24 reps",
       "description": "Lift the right leg and lower the arms and torso while raising the right leg behind the body. Keep the left knee slightly bent. Raise the torso while lowering the right leg."
     },
     {
       "id": 5,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/07_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/70287935-a240-40e0-90eb-299d6bd7c6eb",
       "name": "Three-way Arms",
       "reps": "24 reps",
       "description": "Perform a front raise, keeping elbows straight to lift wrists to shoulder height in front of your body. Perform a lateral raise, keeping elbows straight to lift wrists to shoulder height to the side of your body."
     },
     {
       "id": 6,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/10_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/97048218-e256-4b70-9f27-65fbc8747e9a",
       "name": "Chair Leg Squats",
       "reps": "24 reps",
       "description": "Stand on one leg, in front of a chair. Slowly squat to sit down onto the chair. You can use your other foot to guide you and balance (by tapping on the ground as needed)."
     },
     {
       "id": 7,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/12_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/53229579-414c-4db1-bd9d-ee6a4a36e8fe",
       "name": "Backward Lunge",
       "reps": "40 reps",
       "description": "Begin with a squat, then explosively jump up while swinging your arms down. Land softly and immediately transition into the next squat. This advanced plyometric exercise enhances lower body strength and power."
@@ -195,14 +181,14 @@
     },
     {
       "id": 9,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/08_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/50b71729-fd0a-4476-baa3-0bebff6e6463",
       "name": "Rows",
       "reps": "20 reps",
       "description": "Tip forward at hips, keeping back straight and core muscles tight. Bend at elbows to squeeze shoulder blades backwards, tensing your mid back muscles as you do so. To progress this exercise, aim to complete it standing on one leg."
     },
     {
       "id": 10,
-      "image": "https://www.healthier.qld.gov.au/wp-content/uploads/2015/07/13_M_WIP02.gif",
+      "image": "https://github.com/suriyasingaravel/Futuristic-Fitness/assets/130346885/93af9c33-57cb-4b47-9e93-b09ad1f0deaf",
       "name": "Lunge with Twist",
       "reps": "24 reps",
       "description": "Complete a lunge, bending at both knees to lower downwards. While in the downward lunge and with abdominal muscles tightened, complete a gentle twist to either side."
